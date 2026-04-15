@@ -33,15 +33,6 @@ L’interface reste fluide à tout moment.
 
 ---
 
-##  Aperçu
-
-| Écran principal | Chargement image | Calcul lourd |
-|----------------|------------------|---------------|
-| ![main](screenshots/main.png) | ![loading](screenshots/loading.png) | ![calcul](screenshots/calcul.png) |
-
-*(Ajoutez vos propres captures dans un dossier `screenshots/`)*
-
----
 
 ##  Demo
 
